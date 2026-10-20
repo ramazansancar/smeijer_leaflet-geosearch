@@ -572,6 +572,33 @@
         "maintenance",
         "review"
       ]
+    },
+    {
+      "login": "simon04",
+      "name": "Simon Legner",
+      "avatar_url": "https://avatars.githubusercontent.com/u/782446?v=4",
+      "profile": "https://github.com/simon04",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "JaZo",
+      "name": "Jasper Zonneveld",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3475007?v=4",
+      "profile": "https://github.com/JaZo",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "datengraben",
+      "name": "Chris",
+      "avatar_url": "https://avatars.githubusercontent.com/u/105302830?v=4",
+      "profile": "https://datengraben.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
